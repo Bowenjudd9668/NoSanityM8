@@ -1,4 +1,4 @@
-## Welcome to Mr. Kapptie's Programing Protfolio
+## Welcome to NoSanityM8's Programing Protfolio
 
 You can use the [editor on GitHub](https://github.com/Bowenjudd9668/NoSanityM8/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
